@@ -1,0 +1,6 @@
+*.lock.hcl
+*.tfstate
+*.tf-data*
+*.tfstate.backup
+*.tfvars
+*.tfvars.json
